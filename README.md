@@ -1,2 +1,2 @@
-# Starter-Pro-Blogger-Html
+# Premium Blogger Template -Html
 Starter template Htl for Free
